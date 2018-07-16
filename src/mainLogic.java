@@ -5,5 +5,4 @@ public class mainLogic {
 		// TODO Auto-generated method stub
 
 	}
-
 }
